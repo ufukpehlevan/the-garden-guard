@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "the-garden-guard-dcb96",
+  "private_key_id": "73e8447fbcd1988527e4255999fcd773035c8d9e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC8ARl6/mdXKTXF\nu31iG9wxE1NX1o+QtKjhlboybZsml7sWLufiupkj07mEaRpvR/6iFbGL0TjRC803\n11x/eCQTTJ2EvdG2qoGFT00E4dzaWx63ieljqIznyWiK3WQT/KNLsIRJRu/fZ20T\nqjuXTLhS+zIXDRgLk9ymEgKIBqaDWXaKuzOtOP04ov091uHrXfokq0SjEaMipLMf\n1AOS0TYZzu3dTQUsxcyh70RILW8WOqgIuL6jWI7jdcqD6IyRDG64N2ndOXb+METz\nNIyi/NvbURVA/RcTuu2DLbdFJqvSVpDNV2J4z3gerPql3XqztxvsvAFEiNCXK0Hq\nFip9AFWTAgMBAAECggEADnVHMF5ANEPHDt3MVq8tz9hcoHSvtcEu+6o4F4i2VdF1\nYc9ZpeYTwN2XdsdecRBoVK62aLo+VFVEAvdc9bCXlaReuMagShvyuf3PPoDgKyq2\nwgapHDDqJSkoEQXVnHPhWwDIK5p4+AVMLib5TjloM3l98KfhIYLNhTf9WdipFZC5\n8YTEKHJrfqXHhQPRzI8lqF+DBukAv1C2K9iT+EPjgtDj35X+astC9CMUM/drlIyc\nR4n/ZU1oYC1D1zg5qG1qKtc1A5iGAtIxBcYiMFcnYprrS887x5SIVCQefMwX4IsG\n3pM/Ran+FefI4UeTqbG7mEkHCDyTkGornYN5ktXgAQKBgQDn6YpeP+2trMcMpt/U\nTLHd9WZ4S4S969v35ZO7OnX/z6uGVN3tjTEDWES1BNwsLuTj6xvSoF1zmj8xaH3a\n8+iPsx8+7byyp/hH4hFnry6LY8WU9duL7v7tDK+WYep5mTxiKn3y9Q6kypVFrjUB\ntVDV0r4tqp8jie2bDG76FvINAQKBgQDPiBAJlMhEHUR28wlmL0jZKVE46tm2d7nS\n+Hxuf8eD99ULrIEStQhNycQkcQ0Eh9VRUH5/9VPPA9jvBnyHUgM7P4nz75zJcw8o\njE3QGldEl++R1MFCd50ft7Bh22In1C4fhRQPKeLEtIFrXTjhxGyBu3vUWYa9dWGc\nuSC73LzekwKBgC1yY85CguZVBJDjJtvox7Zyf8k1K2c4kFvNHp1DQJqH7NofSXpi\n/+bi5lv+/tKdwfc0PLiS+p1L7fRVwMwmnj2C4a2oUyFDr3EOyVBjUSC5xZ+CaqrK\nhCSaJtK2j4eS0vV91D7HbT44APatw+94w8WTTfePBy6kue53ikvyMS8BAoGBAImT\n073mShUNqfOJDnQVaJ++CkBHQGj8Wc4IOMUwJF3SEAQbKb3zETwwQ708zLpyKfIs\nAJBnXFXiYQ+kJy22Kro+Vv/FmxTZF/Vzfao1rCCm8ISmnC+qCBmctmtI+nsY6DKx\nECk1RUXNu/Ym6KySgLRIS8DsUKyMgldZSt//Z53NAoGAA9Px1mD7Vzpw3/LiwCYx\nQ8TGDg/iO340uhnW65q7XEaRC+lmo8wrJy7YFaVC/UccvAVhhjzOlcDSGoSnh+V9\nB4cJ9YVCTe7oLp7X87WwC5bGPX2C2KSZLb384if6jghSxnybuuKUbS389qiQ4vqB\nsgK7n5Rcbily/yn+FG8DgDo=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-qr2g0@the-garden-guard-dcb96.iam.gserviceaccount.com",
+  "client_id": "109617154535842407307",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-qr2g0%40the-garden-guard-dcb96.iam.gserviceaccount.com"
+}
